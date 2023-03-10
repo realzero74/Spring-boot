@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootRestapiApplication {
 
     public static void main(String[] args) {
-
         SpringApplication.run(SpringBootRestapiApplication.class, args);
-        System.out.println("start SpringBootRestapiApplication================================================");
     }
 
 }
